@@ -14,5 +14,5 @@ This project has been built using:
 - VS 2022
 - .NET 6
 - SQLite
-- EF Core (Fluent API, Migrations, In Memory)
+- EF Core (Fluent API, Migrations)
 - Auto Mapper
